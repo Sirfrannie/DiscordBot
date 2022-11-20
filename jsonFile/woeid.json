@@ -1,0 +1,317 @@
+[
+    {
+        "country": "United Arab Emirates",
+        "woeid": 23424738,
+        "countryCode": "AE"
+    },
+    {
+        "country": "Algeria",
+        "woeid": 23424740,
+        "countryCode": "DZ"
+    },
+    {
+        "country": "Argentina",
+        "woeid": 23424747,
+        "countryCode": "AR"
+    },
+    {
+        "country": "Australia",
+        "woeid": 23424748,
+        "countryCode": "AU"
+    },
+    {
+        "country": "Austria",
+        "woeid": 23424750,
+        "countryCode": "AT"
+    },
+    {
+        "country": "Bahrain",
+        "woeid": 23424753,
+        "countryCode": "BH"
+    },
+    {
+        "country": "Belgium",
+        "woeid": 23424757,
+        "countryCode": "BE"
+    },
+    {
+        "country": "Belarus",
+        "woeid": 23424765,
+        "countryCode": "BY"
+    },
+    {
+        "country": "Brazil",
+        "woeid": 23424768,
+        "countryCode": "BR"
+    },
+    {
+        "country": "Canada",
+        "woeid": 23424775,
+        "countryCode": "CA"
+    },
+    {
+        "country": "Chile",
+        "woeid": 23424782,
+        "countryCode": "CL"
+    },
+    {
+        "country": "Colombia",
+        "woeid": 23424787,
+        "countryCode": "CO"
+    },
+    {
+        "country": "Denmark",
+        "woeid": 23424796,
+        "countryCode": "DK"
+    },
+    {
+        "country": "Dominican Republic",
+        "woeid": 23424800,
+        "countryCode": "DO"
+    },
+    {
+        "country": "Ecuador",
+        "woeid": 23424801,
+        "countryCode": "EC"
+    },
+    {
+        "country": "Egypt",
+        "woeid": 23424802,
+        "countryCode": "EG"
+    },
+    {
+        "country": "Ireland",
+        "woeid": 23424803,
+        "countryCode": "IE"
+    },
+    {
+        "country": "France",
+        "woeid": 23424819,
+        "countryCode": "FR"
+    },
+    {
+        "country": "Ghana",
+        "woeid": 23424824,
+        "countryCode": "GH"
+    },
+    {
+        "country": "Germany",
+        "woeid": 23424829,
+        "countryCode": "DE"
+    },
+    {
+        "country": "Greece",
+        "woeid": 23424833,
+        "countryCode": "GR"
+    },
+    {
+        "country": "Guatemala",
+        "woeid": 23424834,
+        "countryCode": "GT"
+    },
+    {
+        "country": "Indonesia",
+        "woeid": 23424846,
+        "countryCode": "ID"
+    },
+    {
+        "country": "India",
+        "woeid": 23424848,
+        "countryCode": "IN"
+    },
+    {
+        "country": "Israel",
+        "woeid": 23424852,
+        "countryCode": "IL"
+    },
+    {
+        "country": "Italy",
+        "woeid": 23424853,
+        "countryCode": "IT"
+    },
+    {
+        "country": "Japan",
+        "woeid": 23424856,
+        "countryCode": "JP"
+    },
+    {
+        "country": "Jordan",
+        "woeid": 23424860,
+        "countryCode": "JO"
+    },
+    {
+        "country": "Kenya",
+        "woeid": 23424863,
+        "countryCode": "KE"
+    },
+    {
+        "country": "Korea",
+        "woeid": 23424868,
+        "countryCode": "KR"
+    },
+    {
+        "country": "Kuwait",
+        "woeid": 23424870,
+        "countryCode": "KW"
+    },
+    {
+        "country": "Lebanon",
+        "woeid": 23424873,
+        "countryCode": "LB"
+    },
+    {
+        "country": "Latvia",
+        "woeid": 23424874,
+        "countryCode": "LV"
+    },
+    {
+        "country": "Oman",
+        "woeid": 23424898,
+        "countryCode": "OM"
+    },
+    {
+        "country": "Mexico",
+        "woeid": 23424900,
+        "countryCode": "MX"
+    },
+    {
+        "country": "Nigeria",
+        "woeid": 23424908,
+        "countryCode": "NG"
+    },
+    {
+        "country": "Netherlands",
+        "woeid": 23424909,
+        "countryCode": "NL"
+    },
+    {
+        "country": "Norway",
+        "woeid": 23424910,
+        "countryCode": "NO"
+    },
+    {
+        "country": "New Zealand",
+        "woeid": 23424916,
+        "countryCode": "NZ"
+    },
+    {
+        "country": "Peru",
+        "woeid": 23424919,
+        "countryCode": "PE"
+    },
+    {
+        "country": "Pakistan",
+        "woeid": 23424922,
+        "countryCode": "PK"
+    },
+    {
+        "country": "Poland",
+        "woeid": 23424923,
+        "countryCode": "PL"
+    },
+    {
+        "country": "Panama",
+        "woeid": 23424924,
+        "countryCode": "PA"
+    },
+    {
+        "country": "Portugal",
+        "woeid": 23424925,
+        "countryCode": "PT"
+    },
+    {
+        "country": "Qatar",
+        "woeid": 23424930,
+        "countryCode": "QA"
+    },
+    {
+        "country": "Philippines",
+        "woeid": 23424934,
+        "countryCode": "PH"
+    },
+    {
+        "country": "Puerto Rico",
+        "woeid": 23424935,
+        "countryCode": "PR"
+    },
+    {
+        "country": "Russia",
+        "woeid": 23424936,
+        "countryCode": "RU"
+    },
+    {
+        "country": "South Africa",
+        "woeid": 23424942,
+        "countryCode": "ZA"
+    },
+    {
+        "country": "Singapore",
+        "woeid": 23424948,
+        "countryCode": "SG"
+    },
+    {
+        "country": "Spain",
+        "woeid": 23424950,
+        "countryCode": "ES"
+    },
+    {
+        "country": "Sweden",
+        "woeid": 23424954,
+        "countryCode": "SE"
+    },
+    {
+        "country": "Switzerland",
+        "woeid": 23424957,
+        "countryCode": "CH"
+    },
+    {
+        "country": "Thailand",
+        "woeid": 23424960,
+        "countryCode": "TH"
+    },
+    {
+        "country": "Turkey",
+        "woeid": 23424969,
+        "countryCode": "TR"
+    },
+    {
+        "country": "United Kingdom",
+        "woeid": 23424975,
+        "countryCode": "GB"
+    },
+    {
+        "country": "Ukraine",
+        "woeid": 23424976,
+        "countryCode": "UA"
+    },
+    {
+        "country": "United States",
+        "woeid": 23424977,
+        "countryCode": "US"
+    },
+    {
+        "country": "Venezuela",
+        "woeid": 23424982,
+        "countryCode": "VE"
+    },
+    {
+        "country": "Vietnam",
+        "woeid": 23424984,
+        "countryCode": "VN"
+    },
+    {
+        "country": "Malaysia",
+        "woeid": 56013645,
+        "countryCode": "MY"
+    },
+    {
+        "country": "Saudi Arabia",
+        "woeid": 56120136,
+        "countryCode": "SA"
+    },
+    {
+        "country": "Japan",
+        "woeid": 90036018,
+        "countryCode": "JP"
+    }
+]
