@@ -2,13 +2,15 @@
 discord bot project using Discord.py library
 
 
-function :
+__function :__
 
-  send weather report or weather forecast
-  
-  send twitter trending or top trend
-  
-  send news by searching keywords 
-  
+<sup>
 
-### ---made by me(Fran) ><
+  * send weather report or weather forecast
+  
+  * send twitter trending or top trend
+  
+  * send news by searching keywords 
+ </sup> 
+
+*made by me(Fran) ><*
