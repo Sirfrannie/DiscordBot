@@ -11,10 +11,11 @@ async def load() :
     await bot.load_extension('cogs.weather')
     await bot.load_extension('cogs.twitter')
     await bot.load_extension('cogs.news')
+    await bot.load_extension('cogs.findpicture')
+    await bot.load_extension('cogs.music')
 
 async def main():
     await load()
     await bot.start(getenv.get('DISCORD_TOKEN'))
-
 
 asyncio.run(main())

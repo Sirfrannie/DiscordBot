@@ -25,7 +25,7 @@ class news(commands.Cog) :
         gnew.search(keyword)
         res = gnew.results()
 
-
+        # get image topic
         for i in range (5) :
             url = f"https://www.google.com/search?q={res[i]['title']}&source=lnms&tbm=isch"
             r = requests.get(url)
@@ -33,6 +33,7 @@ class news(commands.Cog) :
             images = soup.find_all('img')
             self.image_links.append(images[1]['src'])
 
+        # get link of news for use to search
         for i in range (5) :
             url = f"https://www.google.com/search?q={res[i]['media']}+icon&source=lnms&tbm=isch"
             r = requests.get(url)
@@ -40,6 +41,7 @@ class news(commands.Cog) :
             images = soup.find_all('img')
             self.tmbn_links.append(images[1]['src'])
 
+        # set up embed and then send to discord channel
         for i in range (5) :
             emBed = discord.Embed(title=f"{res[i]['title']}", description=f"{res[i]['desc']}", color=0x1F51FF)
             emBed.set_image(url=self.image_links[i])
@@ -51,7 +53,8 @@ class news(commands.Cog) :
 
             if i == 4 :
                 await msg.add_reaction("👍")
-    
+
+        # clear all data in each List
         gnew.clear()
         self.image_links.clear()
         self.tmbn_links.clear()

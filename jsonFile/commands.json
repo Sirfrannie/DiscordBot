@@ -1,0 +1,89 @@
+{
+    "main": [
+        {
+            "command": "help <channel name or None>",
+            "info": "Display bot commands"
+        },
+        {
+            "command": "musichelp <channel name or None>",
+            "info": "Display music player commands"
+        },
+        {
+            "command": "whelp <channel's name or None>",
+            "info": "Display more weather report commands"
+        },
+        {
+            "command": "say",
+            "info": "Greeting to user"
+        },
+        {
+            "command": "weather",
+            "info": "Send  today's weather infomations"
+        },
+        {
+            "command": "wforecast",
+            "info": "Send weather forecast for tomorrow"
+        },
+        {
+            "command": "toptrends",
+            "info": "show most tweets topic in Twitter "
+        },
+        {
+            "command": "trending",
+            "info": "show Twitter's trending topic "
+        },
+        {
+            "command": "news <topic>",
+            "info": "search news "
+        },
+        {
+            "command" : "pic <keyword>",
+            "info" : "search picture of giving keyword"
+        }
+
+    ],
+
+
+    "music" : [
+        {
+            "command": "play <title or url>",
+            "info": "play a song or add to queue"
+        },
+        {
+            "command": "pause",
+            "info": "pause the current song"
+        },
+        {
+            "command": "resume",
+            "info": "continue to play the paused song"
+        },
+        {
+            "command": "skip",
+            "info": "skip current song and play another in queue"
+        },
+        {
+            "command": "queue",
+            "info": "display songs in queue"
+        },
+        {
+            "command": "clear",
+            "info": "clear songs in queue"
+        },
+        {
+            "command": "leave",
+            "info": "Disconnect bot from voice channel"
+        }
+    ],
+
+
+    "weather" : [
+        {
+            "command": "setlocation <location's name>",
+            "info": "Set default location"
+        },
+        {
+            "command": "location",
+            "info": "Display the default location"
+        }
+    ]
+}
