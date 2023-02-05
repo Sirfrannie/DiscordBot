@@ -130,8 +130,10 @@ class music_cog(commands.Cog):
             if (i > 5): break
             count += 1
             self.Embed.add_field(name=f"{i+1}. {self.music_queue[i][0]['title']}",value='', inline=False)
+            
 
         if count > 0:
+            self.Embed.set_footer(text=f"{len(self.music_queue)} total")
             await ctx.channel.send(embed= self.Embed)
         else:
             self.Embed.title = "No music in queue"
@@ -139,6 +141,7 @@ class music_cog(commands.Cog):
         
         for i in range(5) :
             self.Embed.remove_field(i)
+        self.Embed.remove_footer()
 
     @commands.command()
     async def clear(self, ctx):
