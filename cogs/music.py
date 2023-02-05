@@ -139,7 +139,7 @@ class music_cog(commands.Cog):
             self.Embed.title = "No music in queue"
             await ctx.channel.send(embed= self.Embed)
         
-        for i in range(5) :
+        for i in range(6) :
             self.Embed.remove_field(i)
         self.Embed.remove_footer()
 
